@@ -44,3 +44,5 @@
 - React for building the user interface
 - CSS for styling the application
 - Flexbox for layout management
+
+# Playable at: baristagame.netlify.app
